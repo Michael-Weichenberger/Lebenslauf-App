@@ -1,8 +1,8 @@
-#  CV-App
+# CV-App
 
 Eine iOS-App zur Präsentation des Lebenslaufs von Michael Weichenberger, entwickelt mit SwiftUI.
 
-##  Beschreibung
+## Beschreibung
 
 Diese App bietet eine übersichtliche und interaktive Möglichkeit, den Lebenslauf von Michael Weichenberger aufzurufen. Sie enthält Informationen zu seiner beruflichen Erfahrung, Bildung, Fähigkeiten und Kontaktdaten.
 
@@ -19,7 +19,11 @@ Diese App bietet eine übersichtliche und interaktive Möglichkeit, den Lebensla
 
 ##  Screenshots
 
-*   Fügen Sie hier Screenshots der App ein, um die Benutzeroberfläche zu zeigen.
+*   **Über Mich Seite:**
+    [ÜberMichCVapp.png](Lebenslauf-App/ÜberMichCVapp.png)
+
+*   **Homescreen:**
+    [HomescreenCVapp.png](Lebenslauf-App/HomescreenCVapp.png)
 
 ## ⚙️ Technologien
 
@@ -54,3 +58,15 @@ Diese App bietet eine übersichtliche und interaktive Möglichkeit, den Lebensla
 ##  Kontakt
 
 *   Michael Weichenberger
+
+##  Lizenz
+
+*   [Fügen Sie hier die Lizenzinformationen ein (z.B. MIT-Lizenz)]
+
+##  Danksagungen
+
+*   [Erwähnen Sie hier alle Personen oder Projekte, die zur Entwicklung der App beigetragen haben.]
+
+##  Zukünftige Erweiterungen
+
+*   [Fügen Sie hier eine Liste von geplanten Funktionen oder Verbesserungen hinzu.]
