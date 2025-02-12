@@ -17,13 +17,8 @@ Diese App bietet eine übersichtliche und interaktive Möglichkeit, den Lebensla
 *   **Über mich Seite:** 
     Zusätzliche Einblicke in die Person von Michael Weichenberger.
 
-    ## Screenshots
-
-*   **Über Mich Seite:**
-    ![ÜberMichCVapp.png](03-01-Lebenslauf/ÜberMichCVapp.png)  <-- Korrekt
-
-*   **Homescreen:**
-    ![HomescreenCVapp.png](03-01-Lebenslauf/HomescreenCVapp.png)  <-- Korrekt
+    ## Screenshot
+    <img src="03-01-Lebenslauf/HomescreenCVapp.png" alt="Homescreen CV" width="200"/>
 
 ## ⚙️ Technologien
 
@@ -59,14 +54,3 @@ Diese App bietet eine übersichtliche und interaktive Möglichkeit, den Lebensla
 
 *   Michael Weichenberger
 
-##  Lizenz
-
-*   [Fügen Sie hier die Lizenzinformationen ein (z.B. MIT-Lizenz)]
-
-##  Danksagungen
-
-*   [Erwähnen Sie hier alle Personen oder Projekte, die zur Entwicklung der App beigetragen haben.]
-
-##  Zukünftige Erweiterungen
-
-*   [Fügen Sie hier eine Liste von geplanten Funktionen oder Verbesserungen hinzu.]
