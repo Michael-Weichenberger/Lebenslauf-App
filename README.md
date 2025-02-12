@@ -17,13 +17,13 @@ Diese App bietet eine übersichtliche und interaktive Möglichkeit, den Lebensla
 *   **Über mich Seite:** 
     Zusätzliche Einblicke in die Person von Michael Weichenberger.
 
-##  Screenshots
+    ## Screenshots
 
 *   **Über Mich Seite:**
-    [ÜberMichCVapp.png](Lebenslauf-App/ÜberMichCVapp.png)
+    ![ÜberMichCVapp.png](03-01-Lebenslauf/ÜberMichCVapp.png)  <-- Korrekt
 
 *   **Homescreen:**
-    [HomescreenCVapp.png](Lebenslauf-App/HomescreenCVapp.png)
+    ![HomescreenCVapp.png](03-01-Lebenslauf/HomescreenCVapp.png)  <-- Korrekt
 
 ## ⚙️ Technologien
 
